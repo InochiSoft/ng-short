@@ -1,0 +1,11 @@
+/* Custom CSS */
+p {
+    text-align: justify;
+    font-size: 12pt;
+    line-height: 14pt;
+}
+
+section.main-content {
+    padding: 10px;
+    margin-left: 10px;
+}
